@@ -6,7 +6,6 @@ This project presents a hybrid document summarization system that integrates ext
 We used GovReport dataset for training HEADS. [Click](https://drive.google.com/drive/folders/1dJ-f1vgMDG3R-XWCyWdYF68xXjseEOyS?usp=sharing) here to access the raw dataset. We have generated intermediate dataset to train both Longformer and BART, [click](https://drive.google.com/drive/folders/1pwtrx7N_66hJAMwOgub6IrlembLI0-Uy?usp=drive_link) here to access it.
 
 
-<img width="499" height="487" alt="image" src="https://github.com/user-attachments/assets/18a22654-ab04-457d-8c77-9c3b65270a2a" />
 
 ![ROUGEscores](https://github.com/user-attachments/assets/f823cb84-ba98-431d-a0e4-743b0dc23ea2)
 ![Factcc_and_BERTScores](https://github.com/user-attachments/assets/d48e6d54-99d2-4800-9605-cd25533b6d11)
