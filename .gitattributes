@@ -1,1 +1,2 @@
 Longformer/model.safetensors filter=lfs diff=lfs merge=lfs -text
+HEADS/Longformer/model.safetensors filter=lfs diff=lfs merge=lfs -text
